@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FriendsTrivia</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_text1">Can You Pass This Ultimate ‘Friends’ Trivia Quiz?</string>
+    <string name="about_text2">It’s been a while since new episodes of Friends graced our TV screens. Of course, that hasn’t stopped us from re-binging the show on Netflix! And it’s not gonna stop us from taking this ultimate Friends quiz! Either way, if you’re here, you’re probably a Friends superfan. From Ross’s “We were on a break!” to the invention of Princess Consuela Banana Hammock. "\n \n" So this app basically a quiz, and test your skills on knowing them.</string>
+    <string name="about_text3">So… are you ready? \nThis ain’t no ordinary ultimate Friends quiz!\n Only a true, die-hard fan can get a perfect score. Do you think you can pass? \n Do you know enough about Friends? \nLet’s find out!</string>
+    <string name="ready_for_the_quiz">Ready for the quiz!</string>
+    <string name="todo">TODO</string>
+    <string name="congratulations_you_made_it_a_true_f_r_i_e_n_d_s_fan">Congratulations! You made it. A true F.R.I.E.N.D.S fan.</string>
+    <string name="go_ahead_share_your_result">Go ahead. Share your result.</string>
+    <string name="title"> F.R.I.E.N.D.S Trivia (%1$d / %2$d)</string>
+    <string name="share"> Hey! I have played FRIENDS Trivia app and I got (%1$d) Questions Corrected out of (%2$d)</string>
+    <string name="creditials">Copyright Disclaimer \n Under Section107 of the Copyright Act of 1976. \n\n  This act,allowance is made for &quot;fair use&quot; purposes only. But if you try to misuse this app, no tention, cool go ahead because you cant. This application is built under useless nonsense Quarantine. \n\n  The creator of this app had gone from many failures while creating this app, so feel free to waste your time.</string>
+    <string name="created_by_ujjwal_shrivastava_n_n_ujjwalshrivastava00_gmail_com">Created by Ujjwal Shrivastava \n\n ujjwalshrivastava00@gmail.com</string>
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\quiz_layout.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\quiz_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\lost_layout.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\lost_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\about_layout.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\about_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\winner_layout.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\winner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\creditials.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\creditials.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\home_layout.xml",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\home_layout.xml"
+    }
+]

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F85A5A"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="427dp"
+            android:layout_height="355dp"
+            android:background="#FAF5F5"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/lost" />
+
+        <TextView
+            android:id="@+id/textView7"
+            style="@style/Answer"
+            android:layout_width="277dp"
+            android:layout_height="64dp"
+            android:gravity="center"
+            android:text="You lost it."
+            android:textSize="36sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+        <ScrollView
+            android:id="@+id/scrollView4"
+            android:layout_width="366dp"
+            android:layout_height="124dp"
+            android:layout_gravity="center"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView7">
+
+            <TextView
+                android:id="@+id/textView5"
+                style="@style/Answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:text=' I must not say it but have to "You are not a real fan of F.R.I.E.N.D.S."'
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:textSize="30sp" />
+        </ScrollView>
+
+        <Button
+            android:id="@+id/button"
+            style="@style/Question"
+            android:layout_width="184dp"
+            android:layout_height="wrap_content"
+            android:background="@android:color/holo_red_dark"
+            android:text="Try again!"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/scrollView4"
+            app:layout_constraintHorizontal_bias="0.494"
+            app:layout_constraintStart_toStartOf="@+id/scrollView4"
+            app:layout_constraintTop_toBottomOf="@+id/scrollView4"
+            app:layout_constraintVertical_bias="0.183" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

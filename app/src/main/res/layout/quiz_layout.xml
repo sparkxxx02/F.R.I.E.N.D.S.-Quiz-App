@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="quiz"
+            type="com.example.friendstrivia.QuizFragment">
+
+        </variable>
+    </data>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="318dp"
+            />
+
+        <TextView
+            android:id="@+id/textView"
+            style="@style/Question"
+            android:text="@{quiz.currentQuestion.text}"
+            android:typeface="normal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/questionImage"
+            />
+
+        <RadioGroup
+            android:id="@+id/questionRGP"
+            android:layout_width="441dp"
+            android:layout_height="119dp"
+            android:animateLayoutChanges="true"
+            android:paddingLeft="15dp"
+            android:paddingTop="10dp"
+            android:paddingEnd="10dp"
+            android:paddingRight="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/questionText">
+
+            <RadioButton
+                android:id="@+id/radioButton1"
+                style="@style/Answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@{quiz.ans[0]}" />
+
+            <RadioButton
+                android:id="@+id/radioButton2"
+                style="@style/Answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@{quiz.ans[1]}" />
+
+            <RadioButton
+                android:id="@+id/radioButton3"
+                style="@style/Answer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:text="@{quiz.ans[2]}" />
+
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/submit"
+            style="@style/Question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:outlineAmbientShadowColor="#AA1010"
+            android:text="Submit"
+            android:background="@android:color/holo_purple"/>
+    </LinearLayout>
+</layout>

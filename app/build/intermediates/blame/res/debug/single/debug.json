@@ -1,0 +1,282 @@
+[
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_friends.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\friends.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_android.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\android.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q3.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q3.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\menu_threedot_menu.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\menu\\threedot_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rules.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rules.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_android.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_android.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_about_layout.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\about_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_winner.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\winner.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phoebe.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\phoebe.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\navigation_navigation.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\navigation\\navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_android.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\font_fondamento.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\font\\fondamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_android.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q7.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q7.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rules.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_winner_layout.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\winner_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_quiz_layout.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\quiz_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawerheader.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\drawerheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_lost.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\lost.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_about.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q9.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q9.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\menu_shareitem.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\menu\\shareitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rules.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_credits3.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\credits3.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_android.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\font_bubblegum_sans.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\font\\bubblegum_sans.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q6.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q6.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_credit.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\credit.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_lost_layout.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\lost_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_rules.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q5.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q5.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rules.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\rules.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_rules.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q2.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q2.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q10.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q10.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_credit2.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\credit2.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q4.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q4.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_creditials.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\creditials.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q8.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q8.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_winner.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\fragment_winner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\layout_home_layout.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_q1.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\q1.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_android.png.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\android.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.jpg.flat",
+        "source": "C:\\Users\\Abhishar\\Desktop\\FriendsTrivia\\app\\src\\main\\res\\drawable\\share.jpg"
+    }
+]
