@@ -1,2 +1,2 @@
-# F.R.I.N.D.S.-Quiz-App
+# F.R.I.E.N.D.S.-Quiz-App
 This is an android application quiz app built entirely under Kotlin language based on the famous tv series "F.R.I.E.N.D.S". The app contains different MCQ questions based on friends.Choose the correct one and share your score among community through Mails and whatsapp( App feature).Run this app in android studio or you can run the same in mobile, by downloading the apk in build folder. 
